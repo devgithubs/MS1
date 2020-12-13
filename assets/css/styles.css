@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@1,300&display=swap');
+
+html,
+body {
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Roboto',sans-serif;
+}
+.page-header {
+    margin-top: 3rem;
+    font-size: 1rem;
+    color: #fff;
+}
+.img1 {
+    margin-top: 3rem;
+    max-width: 90%;
+    max-height: 100%;
+    display: block; /* remove extra space below image */
+    border-radius: 500px;
+}
+.page-header h3 {
+    text-transform: uppercase;
+}
+.callout-container {
+    height: 100vh;
+    background: url('../images/img1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.jumbotron {
+    background-color: transparent;
+}
+.navbar-brand {
+    font-size: 2em;
+    padding: .2em;
+    font-weight: 700;
+    font-style: italic;
+    border-style: groove;
+    border-color: rgb(245, 43, 110);
+    border-width: 4px;
+}
+.block-divider {
+    background-color: #fff;
+}
+.jumbotron h1 {
+    color: #fff;
+}
+.jumbotron .lead {
+    color: #fff;
+}
+.jumbotron small {
+    font-size: 60%;
+    font-style: italic;
+    color: #d0d0d0;
+}
+.mission {
+    color: rgb(245, 43, 110);
+    font-weight: 700;
+}
+.discord a{
+    color:#fff;
+    text-decoration: none;
+}
