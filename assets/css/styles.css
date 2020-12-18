@@ -166,3 +166,33 @@ footer {
         max-width: 50%;
     }
 }
+.tournament-container {
+    height: 100vh;
+    background: url('../images/tournament.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;/*relative parent of absolute child */
+}
+.tournament-overlay {
+    position: absolute;/*absolute child of relative parent*/
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.tournament-bg-color {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.card {
+    width: 80%;
+    height: 90%;
+    margin: 0 auto; 
+    float: none; 
+    
+}
