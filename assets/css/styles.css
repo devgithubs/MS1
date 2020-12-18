@@ -31,10 +31,18 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    position: relative;
+    position: relative;/*relative parent of absolute child */
+}
+.features-bg--color {
+    background-color: rgba(161, 43, 240, 0.541);
+    color: #fff;
+}
+.industry-bg--color {
+    background-color: rgb(153, 0, 255);
+    color: #fff;
 }
 .opaque-overlay {
-    position: absolute;
+    position: absolute;/*absolute child of relative parent*/
     top: 0;
     left: 0;
     height: 100%;
@@ -46,15 +54,35 @@ body {
 }
 .navbar-brand {
     font-size: 2em;
-    padding: .2em;
+    padding: .3em;
     font-weight: 700;
     font-style: italic;
-    border-style: groove;
-    border-color: rgb(245, 43, 110);
-    border-width: 4px;
+}
+.navbar-dark .navbar-brand  {
+    color: rgb(245, 43, 110);
 }
 .block-divider {
     background-color: #fff;
+    height: 5px;
+    margin-bottom: 15px;
+}
+.block-divider--white {
+    background-color: #fff;
+}
+.block-divider--short {
+    width: 40px;
+}
+.feature-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+.feature-header h2 {
+    margin-top: 0;
+}
+.features-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
 .jumbotron h1 {
     color: #fff;
@@ -74,4 +102,67 @@ body {
 .discord a{
     color:#fff;
     text-decoration: none;
+}
+.navbar .navbar-toggler {
+    border: 0;
+}
+.test-img {
+    height: 150px;
+    width: 150px;
+}
+.testimonial {
+    margin-bottom: 0px;    
+}
+.testimonial h2 {
+    color: black;
+}
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.player-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+.player-header h2 {
+    margin-top: 0;
+}
+.quote {
+    text-align: center;
+}
+.block-divider--black {
+    background-color: black;
+    width: 40px;
+    height: 5px;
+    margin-bottom: 60px;
+}
+footer {
+    background-color: #525252;
+    min-height: 120px;
+    margin: 0;
+    color: #fafafa;
+}
+.social-links {
+    padding-bottom: 15px;
+}
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 13px;
+    line-height: 7px;
+    color: #fafafa;
+    background: #8f8f8f;
+    margin-top: 20px;
+}
+@media(min-width: 992px) {
+    .affiliates {
+        margin-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+    }
 }
