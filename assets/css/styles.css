@@ -41,6 +41,9 @@ body {
     background-color: rgb(153, 0, 255);
     color: #fff;
 }
+.wrapper-testimonial {
+    background-color:#5DF15D;
+}
 .opaque-overlay {
     position: absolute;/*absolute child of relative parent*/
     top: 0;
@@ -51,6 +54,9 @@ body {
 }
 .jumbotron {
     background-color: transparent;
+}
+.navbar {
+       background-color: rgba(0, 0, 0, 0.35);
 }
 .navbar-brand {
     font-size: 2em;
@@ -158,14 +164,6 @@ footer {
     background: #8f8f8f;
     margin-top: 20px;
 }
-@media(min-width: 992px) {
-    .affiliates {
-        margin-top: 30px;
-        min-height: 240px;
-        margin: 0 auto;
-        max-width: 50%;
-    }
-}
 .tournament-container {
     height: 100vh;
     background: url('../images/tournament.jpg') no-repeat center center fixed;
@@ -195,4 +193,33 @@ footer {
     margin: 0 auto; 
     float: none; 
     
+}
+.icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 5px;
+}
+.contact-container {
+    height: 100vh;
+    background: url('../images/contact.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;/*relative parent of absolute child */
+}
+.contact-overlay {
+    position: absolute;/*absolute child of relative parent*/
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.contact-card {
+    background-color: transparent;
 }
