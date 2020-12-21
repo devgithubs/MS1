@@ -222,4 +222,24 @@ footer {
 }
 .contact-card {
     background-color: transparent;
+       border: 0;
+}
+.card-title {
+    text-transform: uppercase;
+
+}
+.card-header {
+    text-align: center;
+}
+.card-body-contact {
+    color: #fff;
+
+}
+.card-body-contact a {
+    margin: 8px;
+}
+.fa-paper-plane {
+    color: rgb(245, 43, 110);
+    display: block;
+    margin-bottom: 8px;
 }
