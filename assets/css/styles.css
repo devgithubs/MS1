@@ -221,8 +221,13 @@ footer {
     background-color: rgba(0, 0, 0, 0.5);
 }
 .contact-card {
-    background-color: transparent;
-       border: 0;
+    border-radius: 10px;
+    border: 0;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+.block-divider--contact {
+    background-color: #fff;
+    width: 15px;
 }
 .card-title {
     text-transform: uppercase;
@@ -242,4 +247,36 @@ footer {
     color: rgb(245, 43, 110);
     display: block;
     margin-bottom: 8px;
+    margin-top: 8px;
+}
+.community-container {
+    height: 100vh;
+    background: url('../images/community.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;/*relative parent of absolute child */
+}
+.community-overlay {
+    position: absolute;/*absolute child of relative parent*/
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+.community-main {
+    color: #fff;
+}
+.community-main h1 {
+    display: block;
+    font-weight: 800;
+    text-align: right;
+}
+.community-main p {
+    display: block;
+    text-align: right;
 }
