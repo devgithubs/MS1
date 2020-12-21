@@ -268,6 +268,9 @@ footer {
     height: 100%;
     width: 100%;
 }
+.community {
+    margin-top: 20px;
+}
 .community-main {
     color: #fff;
 }
@@ -279,4 +282,9 @@ footer {
 .community-main p {
     display: block;
     text-align: right;
+}
+.comm-card {
+    background-color: rgba(0, 0, 0, 0.25);
+    margin-bottom: 15px;
+    padding-bottom: 15px;
 }
