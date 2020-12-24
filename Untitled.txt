@@ -1,0 +1,71 @@
+<div class="container-fluid community-container">
+    <div class="community-overlay mt-3">&nbsp;</div>
+    <div class="row">
+        <div class="col-6">
+                <div class="community">
+                    <h1>Organize your own community Esports competition </h1>
+                    <p>Planning on organizing a community competition using StarCraft®, StarCraft® II, World of
+                        Warcraft®, Warcraft® III, Hearthstone®, Heroes of the Storm® or Overwatch®? If so, you must
+                        start by requesting a Blizzard Tournament License!</p>
+                </div>
+        </div>
+        <div class="col-6">    
+            <section>
+                 <div class="card comm-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Community License</h5>
+                        <ul>
+                            <li><i class="far fa-check-square"></i> Prize pool & appearance fees under $10,000 USD.</li>
+                            <li>Total prize pool for your Hearthstone events within 12 months under $50,000 USD.</li>
+                            <li>Additional restrictions apply.</li>
+                        </ul>
+                        <p class="card-text"></p>
+                        <p class="card-text"></p>
+                        <p class="card-text"></p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card text-center comm-card">
+                    <div class="card-body">
+                        <h5 class="card-title">Custom License</h5>
+                        <p class="card-text">Prize pool & appearance fees under $10,000 USD.</p>
+                        <p class="card-text">Total prize pool for your Hearthstone events within 12 months under $50,000 USD.</p>
+                        <p class="card-text">Additional restrictions apply.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+-------------------------------
+
+.community {
+    margin-top:0px;
+}
+.community {
+    color: #fff;
+}
+.community h1 {
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.community p {
+    text-align: left;
+    margin-bottom: 15px;
+}
+.comm-card {
+    background-color: rgba(0, 0, 0, 0.25);
+    padding-bottom: 0px;
+    float: none; 
+    margin-bottom: 10px;
+    color: #fff;
+}
+.comm-card p {
+    text-align: left;
+}
+.comm-card ul li {
+    text-align: left;
+}

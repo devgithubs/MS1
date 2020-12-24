@@ -191,8 +191,7 @@ footer {
     width: 80%;
     height: 90%;
     margin: 0 auto; 
-    float: none; 
-    
+    float: none;   
 }
 .icons {
     display: flex;
@@ -231,7 +230,6 @@ footer {
 }
 .card-title {
     text-transform: uppercase;
-
 }
 .card-header {
     text-align: center;
@@ -251,7 +249,7 @@ footer {
 }
 .community-container {
     height: 100vh;
-    background: url('../images/community.jpg') no-repeat center center fixed;
+    background: url('../images/together.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -268,28 +266,54 @@ footer {
     height: 100%;
     width: 100%;
 }
+.block-divider-community-white {
+    background-color: #fff;
+    width: 45px;
+}
+.community-benefits h2 {
+    color: #fff;
+}
 .community {
-    margin-top:0px;
-}
-.community-main {
     color: #fff;
+    padding: 30px;
+    margin: 10px;
 }
-.community-main h1 {
-    font-weight: 300;
-    text-align: center;
-    margin-bottom: 15px;
-}
-.community-main p {
-    text-align: center;
-    margin-bottom: 15px;
-}
-.comm-card {
+.comms {
     background-color: rgba(0, 0, 0, 0.25);
-    padding-bottom: 0px;
-    float: none; 
-    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
     color: #fff;
 }
-.comm-card p {
-    text-align: center;
+.fa-meteor .fa-trophy {
+    display: block;
+    display: block;
+    height: 15px;
+    width: 15px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+.under-construction {
+    height: 50vh;
+    background: url('../images/construction.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.under-construction p {
+    color: #fff;
+    font-size: large;
+}
+.under-construction a {
+    text-decoration: none;
+    color: #fff;
+}
+.block-divider-black-slim {
+    background-color:black;
+    width: 65px;
 }
