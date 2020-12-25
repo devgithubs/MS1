@@ -151,6 +151,7 @@ Render  | Good  |   Good            |     Good          |
 Response  | Good  |     Good          |    Good           |
 
 
+
 * Testing a sample of User Stories
 
 I got a friend who had never seen my website before to test the following user criteria:
@@ -167,8 +168,19 @@ Again, I asked my friend to try out all the pages and features of the website in
 
 ## Credits
 
-### Content
-### Media
-### Acknowledgments
+* **Code Content**
+- Code Institute
+- Stack Overflow
+- W3Schools
+- Mozilla Web Docs
+- Bootstrap
+
+* **Media**
+
+Free to use, high quality images 
+
+- <a href="https://unsplash.com/">Unsplash</a>
+
+
 --------
 
