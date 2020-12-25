@@ -166,6 +166,19 @@ Again, I asked my friend to try out all the pages and features of the website in
 
 ## Deployment
 
+* **GitHub Pages**
+
+The website has been deployed to and hosted on Github Pages.
+
+The process for doing this is as follows:
+
+  * On GitHub, navigate to your site's repository.
+  * Under your repository name, click Settings.
+  * Under "GitHub Pages", use the None or Branch drop-down menu and select a publishing source.
+  * Click Save.
+  
+_GitHub Docs._
+
 ## Credits
 
 * **Code Content**
