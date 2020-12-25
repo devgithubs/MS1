@@ -42,6 +42,15 @@ Clash Arena aims to do away with old gamer stereotypes by bringing a new and sle
 * As a repeat user, I want to be kept informed about ongoing news and promotions.
 * As a repeat user, I want to be able to make new friends to play online with.
 
+### Wireframe
+
+In the initial forming phase I put together this wireframe using Balsamiq Mockups. While the website has maintained the majority of the features, many changes were made along the way. I will try to avoid making such drastic changes in future projects as it caused a lot of delays and changes on the fly during development.
+
+<object data="https://github.com/devgithubs/MS1/blob/master/assets/images/wireframe.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/devgithubs/MS1/blob/master/assets/images/wireframe.pdf">
+        <p>Please download the wireframe PDF to view it: <a href="https://github.com/devgithubs/MS1/blob/master/assets/images/wireframe.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ### Website Architecture - Hierarchy
 
