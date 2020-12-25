@@ -11,7 +11,7 @@ The aim of Clash Arena to develop an online community of gamers through promotio
 
 ## UX
 
-* Website UX Goals
+**Website UX Goals**
 
 Clash Arena aims to do away with old gamer stereotypes by bringing a new and sleek platform, that makes tournament style competition open to all players.
 
@@ -20,7 +20,7 @@ Clash Arena aims to do away with old gamer stereotypes by bringing a new and sle
 - Target a broad user base.
 - Improve user satisfaction.
 
-* User UX Goals
+**User UX Goals**
 
 - Gain access to the websites offers and services with miniml effort.
 - Give the user the experience they deserve.
@@ -31,12 +31,18 @@ Clash Arena aims to do away with old gamer stereotypes by bringing a new and sle
 ### User Story - First Time Visitor
 
 * As a first time user, I want to be able to land on the main page of the website and navigate to all sections easily and smoothly.
-* As a first time user, I want to understand within the first 10 seconds what the purpose of the website is. 
+* As a first time user, I want to understand within the first 10 seconds what the purpose of the website is.
+* As a first time user, I want to access information about the product or service being offered.
+* As a first time user, I want to be able to have full website functionality on all devices - mobile, tablet, PC.  
+* As a first time user, I want to be able to contact the companies help and/or customer services. 
  
+### User Story - Repeat Visitor
+
+* As a repeat user, I want to be able to easily set up my own tournaments.
+* As a repeat user, I want to be kept informed about ongoing news and promotions.
+* As a repeat user, I want to be able to make new friends to play online with.
 
 
-<img src="../assets/images/community.png" align-item="center" style="margin: 0;">
-<img src="assets/images/community.png" style="margin: 0;">
 
 
 
