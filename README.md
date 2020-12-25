@@ -94,12 +94,19 @@ As previously mentioned, my website follows a modern design style.
 
 The color pallette features many dark, neon, and contrasting electric colours that you find on many websites such as Twitch where a lot of gamers stream their content.
 
-* Navigation bar 
+* **Navigation bar** 
 
 Initially I had designed a logo using free third party software but decided to use just the name _"CLASH"_ in italics in pink against a dark, semi-transparent navbar background.   
 
 The navbar has five inline elements for navigation positioned to the right (end) side of the bar. There are "Home", "Tournament", "Contact", "Community" links and a Discord button. 
 
+* **Hero Image/Callout** 
+
+This part of the home page is probably the most important part of the whole website. The hero image is of a young woman at a gaming arcade, the slogan heading **"PLAY. COMPETE. WIN"** and message CLASH HOSTS TOURNAMENTS FOR COMPETATIVE GAMERS OF ALL SKILL LEVELS overlays the image. 
+A "Learn More" button accompanies the message which allows the user to sign up to learn more about the service. The design lets the user immediately know what the serice offering is and a call to action.
+Below the scroll is a section called **"What we're about"** which provides further information on the websites features, a button to find out more exists underneath.  
+Two further sections exist below that again, a **"What our Player Say"** section with player testimonial and a **"Industry Partner"** section highlighting sponsors.
+A footer with all the companie's social media links is found at the bottom.
 
 ### Existing Features 
 
