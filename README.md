@@ -169,17 +169,17 @@ Again, I asked my friend to try out all the pages and features of the website in
 ## Credits
 
 * **Code Content**
-- Code Institute
-- Stack Overflow
-- W3Schools
-- Mozilla Web Docs
-- Bootstrap
+    * Code Institute
+    * Stack Overflow
+    * W3Schools
+    * Mozilla Web Docs
+    * Bootstrap
 
 * **Media**
+    *  <a href="https://unsplash.com/">Unsplash</a>
 
-Free to use, high quality images 
-
-- <a href="https://unsplash.com/">Unsplash</a>
+Free to use, high quality images. 
+    
 
 
 --------
