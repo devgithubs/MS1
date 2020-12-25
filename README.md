@@ -48,16 +48,19 @@ Clash Arena aims to do away with old gamer stereotypes by bringing a new and sle
 The Website follows a modern layout comprising a main scroll homepage and navbar that leads to three more pages - Tournaments, Contact and Community, also an inline navbar button links to the Community Discord page. 
 All of the pages are linked which makes navigation simple and straightforward.
 
-<img src="/assets/images/hierarchy.png" style="margin: 0;" width="150" height="150">
+<img src="/assets/images/hierarchy.png" style="margin: 0;" width="500" height="300">
 
 Here we see how the home page looks when viewed on multiple devices: 
-<img src="/assets/images/home-page.png" style="margin: 0;" width="150" height="150">
+<img src="/assets/images/home-page.png" style="margin: 0;" width="500" height="300">
 
 Here we see how the contact page looks when viewed on multiple devices:
-<img src="/assets/images/contact-page.png" style="margin: 0;" width="150" height="150">
+<img src="/assets/images/contact-page.png" style="margin: 0;" width="500" height="300">
+
+Here we see how the tournament page looks when viewed on multiple devices:
+<img src="/assets/images/tournament-page.png" style="margin: 0;" width="500" height="300">
 
 Here we see how the community page looks when viewed on multiple devices:
-<img src="/assets/images/community-page.png" style="margin: 0;" width="150" height="150">
+<img src="/assets/images/community-page.png" style="margin: 0;" width="500" height="300">
 
 
 ## Features
