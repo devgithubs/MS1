@@ -48,7 +48,7 @@ In the initial forming phase I put together this wireframe using Balsamiq Mockup
 
 <object data="https://github.com/devgithubs/MS1/blob/master/assets/images/wireframe.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/devgithubs/MS1/blob/master/assets/images/wireframe.pdf">
-        <p>Please download the wireframe PDF to view it: <a href="https://github.com/devgithubs/MS1/blob/master/assets/images/wireframe.pdf">Download PDF</a>.</p>
+        <p>The wireframe PDF can be viewed here: <a href="https://github.com/devgithubs/MS1/blob/master/assets/images/wireframe.pdf">Clash Wireframe</a>.</p>
     </embed>
 </object>
 
@@ -60,19 +60,45 @@ All of the pages are linked which makes navigation simple and straightforward.
 <img src="/assets/images/hierarchy.PNG" style="margin: 0;" width="500" height="300">
 
 Here we see how the home page looks when viewed on multiple devices: 
+
 <img src="/assets/images/home-page.PNG" style="margin: 0;" width="500" height="300">
 
 Here we see how the contact page looks when viewed on multiple devices:
+
 <img src="/assets/images/contact-page.PNG" style="margin: 0;" width="500" height="300">
 
 Here we see how the tournament page looks when viewed on multiple devices:
+
 <img src="/assets/images/tournament-page.PNG" style="margin: 0;" width="500" height="300">
 
 Here we see how the community page looks when viewed on multiple devices:
+
 <img src="/assets/images/community-page.PNG" style="margin: 0;" width="500" height="300">
 
 
 ## Features
+
+In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+
+Existing Features
+Feature 1 - allows users X to achieve Y, by having them fill out Z
+...
+For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
+Features Left to Implement
+Another feature idea
+
+As previously mentioned, my website follows a modern design style. 
+
+The color pallette features many dark, neon, and contrasting electric colours that you find on many websites such as Twitch where a lot of gamers stream their content.
+
+* Navigation bar 
+
+Initially I had designed a logo using free third party software but decided to use just the name _"CLASH"_ in italics in pink against a dark, semi-transparent navbar background.   
+
+The navbar has five inline elements for navigation positioned to the right (end) side of the bar. There are "Home", "Tournament", "Contact", "Community" links and a Discord button. 
 
 
 ### Existing Features 
