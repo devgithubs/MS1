@@ -142,12 +142,26 @@ As is good practice I have made a modal that informs the user that certain parts
 
 ## Testing 
 
-My first method of testing was to check how well the website performed in different browser windows. 
+My first method of testing was to check how well the website performed in different browser windows.
+The results were very similar across the board and did not notice any major deviation. 
 
 Browser  | Chrome |     FireFox          |    Opera           |  
 ------------- | ------------- | ------------- | ------------- |
 Render  | Good  |   Good            |     Good          |
 Response  | Good  |     Good          |    Good           |
+
+
+* Testing a sample of User Stories
+
+I got a friend who had never seen my website before to test the following user criteria:
+
+_"As a first time user, I want to be able to land on the main page of the website and navigate to all sections easily and smoothly."_
+
+My friend was able to locate all the major areas of the website with ease and did not need to ask any questions related to navigation. 
+
+_As a first time user, I want to be able to have full website functionality on all devices - mobile, tablet, PC._
+
+Again, I asked my friend to try out all the pages and features of the website in the mobile device view in developer tools. The test outcome was positive and there was no issues with this test.  
 
 ## Deployment
 
