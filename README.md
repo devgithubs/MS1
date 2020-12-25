@@ -78,17 +78,7 @@ Here we see how the community page looks when viewed on multiple devices:
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-Features Left to Implement
-Another feature idea
+In this section, I go over the different parts of the project as a whole.
 
 As previously mentioned, the Clash website follows a modern design style. 
 
@@ -132,6 +122,8 @@ As is good practice I have made a modal that informs the user that certain parts
 * Wireframe
     * <a href="https://balsamiq.com/">Balsamiq</a>
 
+* IDE
+    * <a href="https://gitpod.io/workspaces/">Gitpod</a>
 * Languages
     * <a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a>
     * <a href="https://en.wikipedia.org/wiki/CSS">CSS</a>
@@ -141,7 +133,21 @@ As is good practice I have made a modal that informs the user that certain parts
     * <a href="https://fonts.google.com/">Google Fonts - Roboto</a>
     * <a href="https://fontawesome.com/">Font Awesome</a>
 
+* Version Control
+    * <a href="https://github.com/">Git</a>
+
+* Media images
+    * <a href="https://unsplash.com/">Unsplash</a>
+
+
 ## Testing 
+
+My first method of testing was to check how well the website performed in different browser windows. 
+
+Browser  | Chrome |     FireFox          |    Opera           |  
+------------- | ------------- | ------------- | ------------- |
+Render  | Good  |   Good            |     Good          |
+Response  | Good  |     Good          |    Good           |
 
 ## Deployment
 
