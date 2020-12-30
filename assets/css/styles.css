@@ -11,6 +11,7 @@ body {
     font-size: 1rem;
     color: #fff;
 }
+/*--------------------------------------------hero main image*/
 .img1 {
     margin-top: 3rem;
     max-width: 90%;
@@ -21,6 +22,7 @@ body {
 .page-header h3 {
     text-transform: uppercase;
 }
+/*--------------------------------------------adapted from code institute tutorial*/
 .callout-container {
     height: 100vh;
     background: url('../images/img1.jpg') no-repeat center center fixed;
@@ -55,6 +57,7 @@ body {
 .jumbotron {
     background-color: transparent;
 }
+/*--------------------------------------------Navbar*/
 .navbar {
        background-color: rgba(0, 0, 0, 0.35);
 }
@@ -78,6 +81,7 @@ body {
 .block-divider--short {
     width: 40px;
 }
+/*--------------------------------------------home-features*/
 .feature-header {
     margin-bottom: 0;
     border-bottom: 0;
@@ -112,6 +116,7 @@ body {
 .navbar .navbar-toggler {
     border: 0;
 }
+/*--------------------------------------------player testimonial*/
 .test-img {
     height: 150px;
     width: 150px;
@@ -143,6 +148,7 @@ body {
     height: 5px;
     margin-bottom: 60px;
 }
+/*--------------------------------------------footer*/
 footer {
     background-color: #525252;
     min-height: 120px;
@@ -164,6 +170,7 @@ footer {
     background: #8f8f8f;
     margin-top: 20px;
 }
+/*--------------------------------------------tournament*/
 .tournament-container {
     height: 100vh;
     background: url('../images/tournament.jpg') no-repeat center center fixed;
@@ -199,6 +206,7 @@ footer {
     justify-content: center;
     margin: 0 5px;
 }
+/*--------------------------------------------contact*/
 .contact-container {
     height: 100vh;
     background: url('../images/contact.jpg') no-repeat center center fixed;
@@ -247,6 +255,7 @@ footer {
     margin-bottom: 8px;
     margin-top: 8px;
 }
+/*--------------------------------------------community*/
 .community-container {
     height: 100vh;
     background: url('../images/together.jpg') no-repeat center center fixed;
@@ -293,6 +302,7 @@ footer {
     margin-bottom: 8px;
     margin-top: 8px;
 }
+/*--------------------------------------------under construction modal*/
 .under-construction {
     height: 50vh;
     background: url('../images/construction.jpg') no-repeat center center fixed;
